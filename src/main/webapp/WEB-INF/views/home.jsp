@@ -11,17 +11,9 @@
     <link rel="stylesheet" type="text/css" href="resources/js/extjs/resources/css/ext-all.css">
     <script type="text/javascript" src="resources/js/extjs/ext-debug.js"></script>
     <script type="text/javascript" src="resources/js/extjs/locale/ext-lang-ko.js"></script>
-    <script type="text/javascript" >    
-    Ext.onReady(function() {
-        var panel = new Ext.create('Ext.panel.Panel',{
-            title : '시작해 볼까',
-            html : '<P>  The time on the server is ${serverTime}. </P>',
-            renderTo : Ext.getBody()
-        });
-         
-    });
-    </script>
+    <script type="text/javascript" src="resources/js/app/app.js"></script>
 </head>
-<body>
+<body> 
+
 </body>
 </html>

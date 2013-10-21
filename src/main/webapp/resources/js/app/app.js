@@ -1,7 +1,7 @@
 Ext.application({
     name: 'arise',    // 어플리케이션 명
-    
-    appFolder : 'app', // 어플리케이션 폴더
+
+    appFolder : 'resources/js/app', // 어플리케이션 폴더
     
     // 실행시 사용할 모든 컨트롤러를 명시한다.
     controllers: [
