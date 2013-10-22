@@ -1,4 +1,4 @@
-Ext.define('arise.view.Viewport', {
+Ext.define('Arise.view.Viewport', {
     extend: 'Ext.container.Viewport',
     layout : 'border'
 });

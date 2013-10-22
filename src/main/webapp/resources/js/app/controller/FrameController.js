@@ -1,4 +1,4 @@
-Ext.define('arise.controller.FrameController', {
+Ext.define('Arise.controller.FrameController', {
     extend: 'Ext.app.Controller',
      
     init: function() {
